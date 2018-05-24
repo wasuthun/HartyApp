@@ -24,9 +24,4 @@ class Registation: AppCompatActivity() {
         view.context.startActivity(intent)
 
     }
-    public fun getMap(): HashMap<String, String> {
-        return this.map
-    }
-
-
 }
