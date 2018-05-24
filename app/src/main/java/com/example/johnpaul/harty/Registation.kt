@@ -24,4 +24,9 @@ class Registation: AppCompatActivity() {
         view.context.startActivity(intent)
 
     }
+
 }
+
+ 
+
+
