@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">็Harty</string>
+    <string name="book">Book</string>
+    <string name="sport">Sport</string>
+    <string name="game">Game</string>
+    <string name="food">Food</string>
+    <string name="knowledge">Knowledge</string>
+    <string name="all">All</string>
+    <string name="harty">Harty</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+</resources>
